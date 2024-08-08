@@ -1,4 +1,4 @@
-# Super Resolution Generative Adversarial Network (SR-GAN) Image upsampling
+# ResoMagic-GAN
   - Implementation of SRGAN for Tensorflow version.
   - Objective: Enhance the resolution of low-resolution images to produce high-resolution versions while preserving details and realism.
   
