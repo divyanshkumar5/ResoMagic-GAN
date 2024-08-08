@@ -17,7 +17,7 @@
 ## Download repository
   - download this repo by following the given instructions:
   
-        $ git clone https://github.com/animeshraghav/SR-GAN-Image-upsampling.git
+        $ git clone https://github.com/divyanshkumar5/ResoMagic-GAN
 
 
 ## Requirements
